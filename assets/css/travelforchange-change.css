@@ -1,0 +1,14 @@
+
+
+
+.navbar-default,
+.navbar-inverse,
+.navbar-fixed-top {
+  -webkit-transition: all 0.9s;
+  -moz-transition: all 0.9s;
+  transition: all 0.9s;
+}
+
+.img-logo{
+	height: 100%;
+}
