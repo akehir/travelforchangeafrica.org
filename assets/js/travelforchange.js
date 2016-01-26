@@ -97,6 +97,7 @@
         offset: 51
     })
 
+
     // Portfolio Filtering Scripts & Hover Effect
     var filterList = {
         init: function() {
@@ -117,13 +118,14 @@
         hoverEffect: function() {
 
             // Simple parallax effect
+
             $('#portfoliolist .portfolio').hover(
                 function() {
                     $(this).find('.caption').stop().animate({
                         bottom: 0
                     }, 200, 'easeOutQuad');
                     $(this).find('img').stop().animate({
-                        top: -20
+                        top: 0
                     }, 300, 'easeOutQuad');
                 },
                 function() {
@@ -141,6 +143,8 @@
     };
 
     filterList.init();
+
+
 
 })(jQuery); // End of use strict
 
