@@ -615,8 +615,7 @@ aside.cta-quote span.quote {
   background-color: #222222;
 }
 .portfolio-carousel .item {
-  background-color: #222222;
-  background: no-repeat center center scroll;
+  background: #222222 no-repeat scroll center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
