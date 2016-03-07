@@ -109,6 +109,7 @@
                 filterSelector: '.filter',
                 effects: ['fade'],
                 easing: 'snap',
+                showOnLoad: 'selection',
                 // call the hover effect
                 onMixEnd: filterList.hoverEffect()
             });
