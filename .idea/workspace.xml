@@ -1,317 +1,665 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390f0e9f-412a-4121-a37e-c74185d04284" name="Default" comment="new set of stock images">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/006@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/007@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/009@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/012@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/016@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/018@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-panorama.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-panorama@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/naivasha-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/naivasha-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/samburu-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/samburu-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/006@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/007@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/009@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/012@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/016@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/018@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-panorama.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/africa-panorama@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/naivasha-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/naivasha-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-lake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-lake@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/safari-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/safari-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/samburu-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/samburu-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/006@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/007@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/009@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/012@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/016@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/018@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-panorama.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-panorama@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/naivasha-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/naivasha-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/samburu-title.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/samburu-title@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Website Content.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/travelforchange_DiskStation_Feb-15-2337-2016_Conflict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TsavoAndMara5days.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="390f0e9f-412a-4121-a37e-c74185d04284" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/HipoInLakeVictoria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/KakamegaForest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/KerichoTeaPlantation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/LakeVictoria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/LakeVictoriaHyacinth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/photo/kenya/MonkeyRock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/006@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/007@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/009@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/012@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/016@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/018@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/aberdare-thomson-falls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/aberdare-thomson-falls@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-elephants.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-elephants@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-giraffe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-giraffe@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-bird.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-sunset.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-zebra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-lion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-lion@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-panorama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/africa-panorama@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-b@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/amboseli-title-kilimanjaro-c@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-africa-boat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-africa-boat@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-kenia-africa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-kenia-africa@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-kenia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-kenia@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-malindi-masai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-malindi-masai@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-masai-shepherds.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-masai-shepherds@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-samburu-village-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-samburu-village-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-samburu-village-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/generic-samburu-village-b@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-elephants.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-elephants@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion-sunset-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion-sunset-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion-sunset-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion-sunset-b@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjaro-lion@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjarp-elephants.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/kilimanjarp-elephants@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/lewa-conservancy-mount-kenya-masai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/lewa-conservancy-mount-kenya-masai@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/manyara-tanzania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/manyara-tanzania@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-cheetah.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-cheetah@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-gnus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-gnus@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-kenya-gnu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-kenya-gnu@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-lions-little-governors-camp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/masai-mara-lions-little-governors-camp@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/naivasha-title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/naivasha-title@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/nakuru-lake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/nakuru-lake@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/nakuru-title-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/nakuru-title-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-b@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/ngorongoro-tanzania-title-c@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/safari-giraffe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/safari-giraffe@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/safari-masai-mara-gnu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/safari-masai-mara-gnu@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/samburu-title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/samburu-title@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-a@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-b@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/serengeti-tanzania-title-c@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tarangire-tanzania.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tarangire-tanzania@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tsavo-east-kenya-elephants.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tsavo-east-kenya-elephants@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tsavo-est-generic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tourdt/tsavo-est-generic@2x.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/HipoInLakeVictoria.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/KakamegaForest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/KerichoTeaPlantation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/LakeVictoria.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/LakeVictoriaHyacinth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/kenya/MonkeyRock.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/001@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/001_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/001_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/002@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/002_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/002_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/003@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/003_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/003_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/004@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/004_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/004_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/005@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/005_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/005_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/006@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/006_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/006_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/007@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/007_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/007_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/008@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/008_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/008_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/009@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/009_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/009_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/010@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/010_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/010_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/011@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/011_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/011_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/012@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/012_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/012_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/013@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/013_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/013_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/014.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/014@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/014_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/014_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/015@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/015_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/015_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/016.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/016@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/016_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/016_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/017.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/017@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/017_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/017_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/018.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/018@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/018_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/018_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/019.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/019@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/019_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/019_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/020.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/020@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/020_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/020_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/021@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/021_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/021_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/022@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/022_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/022_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/023.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/023@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/023_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/023_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/024@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/024_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/024_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/025@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/025_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/025_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/026@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/026_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/026_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/027.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/027@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/027_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/027_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/028@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/028_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/028_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/029@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/029_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/029_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/030.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/030@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/030_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/030_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/031.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/031@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/031_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/031_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/032.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/032@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/032_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/032_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/033@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/033_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/033_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/034.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/034@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/034_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/034_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/035.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/035@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/035_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/035_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/036.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/036@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/036_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/036_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/037.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/037@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/037_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/037_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/038.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/038@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/038_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/038_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/039@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/039_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/039_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/040.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/040@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/040_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/040_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/041@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/041_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/041_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/042.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/042@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/042_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/042_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/043.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/043@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/043_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/043_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/044@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/044_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/044_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/045.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/045@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/045_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/045_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/046.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/046@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/046_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/046_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/047.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/047@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/047_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/047_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/048@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/048_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/048_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/049.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/049@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/049_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/049_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/050.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/050@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/050_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/050_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/051.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/051@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/051_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/051_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/052.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/052@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/052_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/052_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/053.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/053@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/053_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/053_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/054.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/054@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/054_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/054_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/055@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/055_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/055_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/056.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/056@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/056_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/056_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/057.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/057@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/057_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/photo/057_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/tours/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/tours/006@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/tourt/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/tourt/006@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/001@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/001_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/001_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/002@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/002_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/002_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/004@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/004_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/004_t@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/masaimara.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/masaimara@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/masaimara_t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/trips/masaimara_t@2x.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/006.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/006.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/006@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/006@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/007.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/007.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/007@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/007@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/009.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/009.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/009@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/009@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/012.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/012@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/012@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/016.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/016@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/016@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/018.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/018@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/018@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/aberdare-thomson-falls@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-panorama.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-panorama.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/africa-panorama@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/africa-panorama@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/amboseli-title-kilimanjaro-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-africa-boat@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia-africa@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-kenia.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-kenia@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-kenia@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-malindi-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-masai-shepherds@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/generic-samburu-village-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion-sunset-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjaro-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/kilimanjarp-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/lewa-conservancy-mount-kenya-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/manyara-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-cheetah@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-gnus@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-kenya-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/masai-mara-lions-little-governors-camp@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/naivasha-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/naivasha-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/naivasha-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/naivasha-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-lake@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/nakuru-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/ngorongoro-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/safari-masai-mara-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/samburu-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/samburu-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/samburu-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/samburu-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/serengeti-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tarangire-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-east-kenya-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourd/tsavo-est-generic@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/007.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/007.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/007@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/007@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/009.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/009.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/009@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/009@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/012.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/012@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/012@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/016.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/016@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/016@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/018.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/018@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/018@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/aberdare-thomson-falls@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-panorama.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-panorama.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/africa-panorama@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/africa-panorama@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/amboseli-title-kilimanjaro-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-africa-boat@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia-africa@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-kenia.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-kenia@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-kenia@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-malindi-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-masai-shepherds@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/generic-samburu-village-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion-sunset-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjaro-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/kilimanjarp-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/lewa-conservancy-mount-kenya-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/manyara-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-cheetah@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-gnus@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-kenya-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/masai-mara-lions-little-governors-camp@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/naivasha-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/naivasha-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/naivasha-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/naivasha-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/nakuru-lake.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-lake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/nakuru-lake@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-lake@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/nakuru-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/ngorongoro-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/safari-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/safari-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/safari-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/safari-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/safari-masai-mara-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/samburu-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/samburu-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/samburu-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/samburu-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/serengeti-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tarangire-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-east-kenya-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tours/tsavo-est-generic@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/007.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/007.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/007@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/007@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/009.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/009.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/009@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/009@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/012.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/012@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/012@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/016.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/016@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/016@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/018.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/018@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/018@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/aberdare-thomson-falls@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-bird@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-sunset@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-kenya-tanzania-giraffe-zebra@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-panorama.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-panorama.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/africa-panorama@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/africa-panorama@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/amboseli-title-kilimanjaro-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-africa-boat@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia-africa@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-kenia.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-kenia@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-kenia@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-malindi-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-masai-shepherds@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/generic-samburu-village-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion-sunset-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjaro-lion@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/kilimanjarp-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/lewa-conservancy-mount-kenya-masai@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/manyara-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-cheetah@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-gnus@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-kenya-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/masai-mara-lions-little-governors-camp@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/naivasha-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/naivasha-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/naivasha-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/naivasha-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-lake@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/nakuru-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/ngorongoro-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-giraffe@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/safari-masai-mara-gnu@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/samburu-title.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/samburu-title.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/samburu-title@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/samburu-title@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-a@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-b@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/serengeti-tanzania-title-c@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tarangire-tanzania@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-east-kenya-elephants@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic@2x.jpg" afterPath="$PROJECT_DIR$/assets/img/tourt/tsavo-est-generic@2x.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/travelforchange-change.css" afterPath="$PROJECT_DIR$/assets/css/travelforchange-change.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/travelforchange.js" afterPath="$PROJECT_DIR$/assets/js/travelforchange.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="TravelForChange.iws" />
@@ -338,8 +686,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38976377">
-              <caret line="1250" column="31" selection-start-line="1250" selection-start-column="31" selection-end-line="1250" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.5289779">
+              <caret line="1195" column="42" selection-start-line="1195" selection-start-column="42" selection-end-line="1195" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -376,21 +724,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travelforchange.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/travelforchange.js">
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travelforchange-change.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/travelforchange-change.css">
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/font-awesome/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.975">
-              <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="travelforchange.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/travelforchange.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="589" column="22" selection-start-line="589" selection-start-column="22" selection-end-line="589" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -444,7 +812,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
     <option name="y" value="35" />
     <option name="width" value="2560" />
@@ -476,6 +844,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -494,11 +864,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelForChange" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="NBKnowledgePane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1339,7 +1721,11 @@
       <workItem from="1455700273078" duration="2999000" />
       <workItem from="1455718507633" duration="6109000" />
       <workItem from="1455801163321" duration="34000" />
-      <workItem from="1457366499333" duration="13110000" />
+      <workItem from="1457366499333" duration="13745000" />
+      <workItem from="1457426350546" duration="5335000" />
+      <workItem from="1457456852150" duration="4657000" />
+      <workItem from="1457516471636" duration="24000" />
+      <workItem from="1457806744641" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="updated content, changed header">
       <created>1453832873453</created>
@@ -1365,11 +1751,23 @@
       <option name="project" value="LOCAL" />
       <updated>1455728416733</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new set of stock images for the various tours">
+      <created>1457384294260</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1457384294260</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated font-awesome to 4.5.0">
+      <created>1457438465744</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1457438465744</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84983000" />
+    <option name="totallyTimeSpent" value="96869000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1381,7 +1779,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="2560" height="1405" extended-state="6" />
+    <frame x="0" y="35" width="2560" height="1405" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1394,7 +1792,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1404,13 +1801,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1431,7 +1829,9 @@
     <MESSAGE value="updated images showing, updated portfolio of trips with real info" />
     <MESSAGE value="updated content, restructured site, added information on volunteering" />
     <MESSAGE value="new set of stock images" />
-    <option name="LAST_COMMIT_MESSAGE" value="new set of stock images" />
+    <MESSAGE value="new set of stock images for the various tours" />
+    <MESSAGE value="updated font-awesome to 4.5.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated font-awesome to 4.5.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1442,27 +1842,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/travelforchange.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="836" column="26" selection-start-line="836" selection-start-column="26" selection-end-line="836" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/travelforchange.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/travelforchange-change.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1517,7 +1900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1525,7 +1907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1634,7 +2015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1688,7 +2068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1750,7 +2129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1812,7 +2190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2260,14 +2637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76279527">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2660985">
@@ -2278,32 +2647,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/travelforchange.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0177164">
-          <caret line="292" column="0" selection-start-line="292" selection-start-column="0" selection-end-line="305" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="589" column="22" selection-start-line="589" selection-start-column="22" selection-end-line="589" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/travelforchange.js">
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/travelforchange-change.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.975">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.84744096">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/travelforchange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.904356">
+          <caret line="137" column="27" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38976377">
-          <caret line="1250" column="31" selection-start-line="1250" selection-start-column="31" selection-end-line="1250" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.5289779">
+          <caret line="1195" column="42" selection-start-line="1195" selection-start-column="42" selection-end-line="1195" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
