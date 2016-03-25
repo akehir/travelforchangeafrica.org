@@ -1,0 +1,66 @@
+
+<!--
+
+Accounting
+    Due
+        https://due.com/pricing
+        > 3rd Party
+
+    PHPledger
+        http://www.phpledger.com/
+        git clone git@github.com:rmak78/phpledger.git accounting
+
+    GnuCash Django
+        https://github.com/nylen/gnucash-django
+            git clone git@github.com:nylen/gnucash-django.git
+            sudo dnf install python-pip
+            sudo pip install virtualenv
+            cd gnucash-django
+            virtualenv .
+            . bin/activate
+            pip install -r requirements.txt
+            cp settings.example.py settings.py
+            python -c 'import random; r=random.SystemRandom(); print "".join([r.choice("abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)") for i in range(50)])'
+            python manage.py syncdb
+            python manage.py createsuperuser
+            python manage.py runserver
+
+                  WSGIDaemonProcess site.com processes=2 threads=15
+                  WSGIProcessGroup site.com
+
+                  WSGIScriptAlias /gnucash-django /path/to/gnucash-django/apache/money.wsgi
+                  <Location /gnucash-django>
+                    # This setup will allow everyone access to the application.
+                    # Even though visitors will have to log in, this is probably
+                    # still not a good idea and you should use Apache auth here.
+                    Order deny,allow
+                    Allow from all
+                  </Location>
+
+
+Web-Payments
+    Paypal
+        https://www.paypal.com/ch/webapps/mpp/home
+    Stripe
+        https://stripe.com/checkout
+
+CRM
+    SugarCRM
+        http://www.sugarcrm.com/
+        git clone git@github.com:sugarcrm/sugarcrm_dev.git clients
+
+    Vtiger CRM
+        http://community.vtiger.com/help/vtigercrm/administrators/installation.html
+
+ERP
+    Odoo /phthon
+        git clone git@github.com:odoo/odoo.git
+
+    xTulple /nodejs
+        git clone git@github.com:xtuple/xtuple.git
+
+    ERPNext /python
+        git clone git@github.com:frappe/erpnext.git
+
+
+-->
