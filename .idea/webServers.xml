@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="34946e26-eef8-45c9-9aee-0db1b78a2421" name="travelforchange" url="http://www.travelforchangeafrica.org">
-        <fileTransfer host="ftp.akehir.com" port="21" username="akehirco">
+        <fileTransfer host="ftp.akehir.com" port="21" password="dfd3df85df91df8edfdfdf8cdff9dfeddfe1df9ddfe6df80dfdddf95dfc4dfc2dfdddfed" username="akehirco">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

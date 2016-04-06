@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="travelforchange" compareModeInSync="SIZE">
+  <component name="PublishConfigData" serverName="travelforchange" uploadOnCheckin="34946e26-eef8-45c9-9aee-0db1b78a2421" compareModeInSync="SIZE">
     <serverData>
       <paths name="akehir.com">
         <serverdata>
@@ -20,5 +20,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="travelforchange" />
   </component>
 </project>
